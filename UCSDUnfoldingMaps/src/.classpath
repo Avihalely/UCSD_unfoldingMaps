@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="/unfolding-app-template-with-examples/lib/core.jar"/>
+	<classpathentry kind="lib" path="/UCSDUnfoldingMaps/lib/unfolding.0.9.7-uscd.jar"/>
+	<classpathentry kind="lib" path="/UCSDUnfoldingMaps/lib/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
